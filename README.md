@@ -1,1 +1,0 @@
-For myself: cygwin + gcc, C:\cygwin64\bin\g++.exe -fdiagnostics-color=always -g E:\VSCode\Repos\AlPro\WiSe-2425-AlPro\UB3\uebungscode_03_04.cpp -o E:\VSCode\Repos\AlPro\WiSe-2425-AlPro\UB3\uebungscode_03_04.exe
