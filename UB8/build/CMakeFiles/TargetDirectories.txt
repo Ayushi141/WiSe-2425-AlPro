@@ -1,0 +1,4 @@
+/home/odin/AlProBonnRepo/uebungscode_08/build/CMakeFiles/aufg1.dir
+/home/odin/AlProBonnRepo/uebungscode_08/build/CMakeFiles/aufg2.dir
+/home/odin/AlProBonnRepo/uebungscode_08/build/CMakeFiles/edit_cache.dir
+/home/odin/AlProBonnRepo/uebungscode_08/build/CMakeFiles/rebuild_cache.dir

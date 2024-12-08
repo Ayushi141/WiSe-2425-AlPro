@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address CMakeFiles/aufg1.dir/examples/aufg1.cpp.o CMakeFiles/aufg1.dir/src/binary_tree.cpp.o CMakeFiles/aufg1.dir/src/binary_tree_node.cpp.o CMakeFiles/aufg1.dir/src/list.cpp.o CMakeFiles/aufg1.dir/src/list_node.cpp.o -o aufg1 
